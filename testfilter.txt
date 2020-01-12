@@ -1,1 +1,1 @@
-@@||cdn.skylinewebcams.com/player/*$object-subrequest
+cdn.skylinewebcams.com/player/*$object-subrequest
